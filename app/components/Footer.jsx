@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="col-lg-4">
             <div className="footer-widgets-two">
               <div className="footer-two-company-info text-center text-lg-start">
-                <h2 className="text_light_white bounce-text">Axole Agency</h2>
+                <h2 className="text_light_white bounce-text">IGNITAX</h2>
                 <a
                   className="d-block address-link mt-3 mb-4 text_light_white"
                   href="https://themeforest.wprealizer.com/cdn-cgi/l/email-protection#3071485f5c557054555d5f1e535f5d"
@@ -53,7 +53,8 @@ export default function Footer() {
                     Location
                   </h2>
                   <p className="text_light_white">
-                    New York — 785 18h Street, Office 778 Berlin, De 81226
+                    A-427, Siddhivinayak Arcade, Vasna, Ahmedabad, Gujarat
+                    380051
                   </p>
                 </div>
                 <div className="address-info-box text-center text-lg-start">
@@ -111,7 +112,7 @@ export default function Footer() {
           <div className="col-lg-12">
             <div className=" pt-3 pb-3 d-flex flex-wrap justify-content-center">
               <p className="text_light_white">
-                © 2024 All Rights Reserved By Axole
+                © 2024 All Rights Reserved By IgNiTaX
               </p>
             </div>
           </div>
