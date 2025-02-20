@@ -36,8 +36,11 @@ export default function Service() {
                 <div className="service-two-box">
                   <div className="service-two-info-wrap d-flex flex-column flex-xl-row justify-content-xl-between">
                     <h2 className="reveal_anim-2">
-                      <a className="text-black" href="service.html">
-                        Design
+                      <a
+                        className="text-black no-underline"
+                        href="service.html"
+                      >
+                        Brand Design
                       </a>
                     </h2>
                     <p>
@@ -46,10 +49,11 @@ export default function Service() {
                     </p>
                   </div>
                   <ul className="custom-ul d-flex flex-wrap service-showcases">
+                    <li>BRAND IDENTITY DESIGN</li>
                     <li>UI/UX DESIGN</li>
                     <li>PRODUCT DESIGN</li>
-                    <li>BRAND IDENTITY DESIGN</li>
-                    <li>GRAPHICS / 3D DESIGN</li>
+
+                    <li>GRAPHICS / POST DESIGN</li>
                   </ul>
                 </div>
               </div>
@@ -63,8 +67,11 @@ export default function Service() {
                 <div className="service-two-box">
                   <div className="service-two-info-wrap d-flex flex-column flex-xl-row justify-content-xl-between">
                     <h2 className="reveal_anim-2">
-                      <a className="text-black" href="service.html">
-                        Coding
+                      <a
+                        className="text-black no-underline text-8xl"
+                        href="service.html"
+                      >
+                        Web/App Development
                       </a>
                     </h2>
                     <p>
@@ -73,10 +80,10 @@ export default function Service() {
                     </p>
                   </div>
                   <ul className="custom-ul d-flex flex-wrap service-showcases">
-                    <li>Web Development</li>
-                    <li>App Development</li>
-                    <li>Backend Development</li>
-                    <li>Frontend Development</li>
+                    <li>WEB DEVELOPMENT</li>
+                    <li>APP DEVELOPMENT</li>
+                    <li>SOFTWARE DEVELOPMENT</li>
+                    <li>E COMMERCE</li>
                   </ul>
                 </div>
               </div>
@@ -90,7 +97,10 @@ export default function Service() {
                 <div className="service-two-box">
                   <div className="service-two-info-wrap d-flex flex-column flex-xl-row justify-content-xl-between">
                     <h2 className="reveal_anim-2">
-                      <a className="text-black" href="service.html">
+                      <a
+                        className="text-black no-underline text-8xl"
+                        href="service.html"
+                      >
                         Marketing
                       </a>
                     </h2>
@@ -102,8 +112,7 @@ export default function Service() {
                   <ul className="custom-ul d-flex flex-wrap service-showcases">
                     <li>SEO EXPERT</li>
                     <li>SOCIAL MEDIA MARKETING</li>
-                    <li>Content Marketing</li>
-                    <li>Email Marketing</li>
+                    <li>PPC</li>
                   </ul>
                 </div>
               </div>
