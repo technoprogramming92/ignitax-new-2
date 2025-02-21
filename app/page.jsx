@@ -22,13 +22,13 @@ export default function Home() {
         <GallerySlide />
         <Partners />
         <About />
-        <Work />
+
         <Service />
         <Portfolio />
         <Projects />
-        <Team />
-        <Testimonial />
+
         <SocialMedia />
+        <Testimonial />
         <Blog />
         <Footer />
       </div>

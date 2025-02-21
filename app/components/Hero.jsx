@@ -3,7 +3,7 @@ import React from "react";
 export default function Hero() {
   return (
     <div>
-      <section className="hero-two-area bg_color_gray overflow-hidden">
+      <section className="hero-two-area bg_color_gray overflow-hidden mb-10">
         <div className="container container-semi-large">
           <div className="row gy-5">
             <div className="col-lg-12">
