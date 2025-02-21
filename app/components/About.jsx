@@ -11,10 +11,6 @@ export default function About() {
                 <span className="d-inline-block position-relative">
                   ABOUT US
                 </span>
-                <h2 className="h2 char-animation">
-                  We are a full-service digital agency dedicated to helping
-                  businesses of all sizes thrive
-                </h2>
               </div>
               <div className="about-two-fun-fact-wrap d-flex flex-xl-wrap flex-wrap mt-5">
                 <div className="about-two-fun-fact d-flex flex-column align-items-center text-center fade_bottom">

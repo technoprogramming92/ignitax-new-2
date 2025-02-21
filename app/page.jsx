@@ -8,19 +8,27 @@ import Team from "./components/Team";
 import Testimonial from "./components/Testimonial";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
+import Marquee from "./components/Marquee";
+import Partners from "./components/Partners";
+import Projects from "./components/Projects";
+import SocialMedia from "./components/SocialMedia";
 
 export default function Home() {
   return (
     <div className="" id="smooth-wrapper">
       <div id="smooth-content">
         <Hero />
+        <Marquee />
         <GallerySlide />
+        <Partners />
         <About />
         <Work />
         <Service />
         <Portfolio />
+        <Projects />
         <Team />
         <Testimonial />
+        <SocialMedia />
         <Blog />
         <Footer />
       </div>
